@@ -9,11 +9,11 @@ header {
     background: rgb(29, 175, 29);
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 #intro {
-    padding: 20px;
+    /* padding: 20px; */
     text-align: center;
     font-style: italic;
 }
@@ -79,9 +79,9 @@ footer {
 
 .logo {
     width: 60px;
-    /* controls logo size */
+
     height: auto;
-    /* keeps proportions correct */
+
 }
 
 .swing-text {
