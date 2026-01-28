@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #1ada1469;
+    color: #333;
+}
+
+header {
+    background: rgb(29, 175, 29);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#intro {
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+#gallery ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+}
+
+#gallery li {
+    margin: 10px;
+}
+
+#gallery img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #333;
+}
+
+#gallery img:hover {
+    transform: scale(1.05);
+}
+
+#bio {
+    text-align: center;
+    padding: 50px;
+}
+
+#bio img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background: purple border: 1px solid #ccc;
+}
+
+button {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(77, 179, 52);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: hsl(125, 84%, 45%);
+    color: rgb(255, 255, 255);
+}
+
+.logo {
+    width: 60px;
+    /* controls logo size */
+    height: auto;
+    /* keeps proportions correct */
+}
+
+.swing-text {
+    display: inline-block;
+    animation: swing 2s ease-in-out infinite;
+}
+
+.floating-text {
+    display: inline-block;
+    animation: floatLoop 3s ease-in-out infinite;
+}
+
+@keyframes floatLoop {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-5px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
