@@ -3,7 +3,7 @@
 
 This project is a personal photography portfolio website created as part of my web development assignment. The website showcases a selection of my favorite photographs and includes a short biography section to introduce me as a photographer.
 
-🌟 Project Features
+ Project Features
 
 A gallery displaying my favorite photos
 
@@ -47,3 +47,4 @@ Purpose: Web Development Practice Project
 📝 Project Purpose
 
 The goal of this project was to practice building a structured and styled website using HTML and CSS. It demonstrates my ability to create multi-section webpages, design photo layouts, and publish a project using GitHub.
+https://mathewkioko85-gif.github.io/Mathew-s-project/
