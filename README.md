@@ -1,5 +1,5 @@
 # photography-portfolio
-📸 Photography Portfolio Website
+ Photography Portfolio Website
 
 This project is a personal photography portfolio website created as part of my web development assignment. The website showcases a selection of my favorite photographs and includes a short biography section to introduce me as a photographer.
 
@@ -25,7 +25,7 @@ CSS3
 🔗 View Online
 
 You can view the live website here:
-(Add your GitHub Pages link here after publishing)
+(https://mathewkioko85-gif.github.io/Mathew-s-project/)
 
  Run Locally on Your Computer
 
@@ -47,4 +47,3 @@ Purpose: Web Development Practice Project
 📝 Project Purpose
 
 The goal of this project was to practice building a structured and styled website using HTML and CSS. It demonstrates my ability to create multi-section webpages, design photo layouts, and publish a project using GitHub.
-https://mathewkioko85-gif.github.io/Mathew-s-project/
