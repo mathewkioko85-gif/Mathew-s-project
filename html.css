@@ -95,7 +95,7 @@ footer {
 }
 
 @keyframes floatLoop {
-    0% {
+    1% {
         transform: translateY(0);
     }
 
