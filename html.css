@@ -34,7 +34,7 @@ header {
     width: 201px;
     height: 150px;
     object-fit: cover;
-    border: 3px solid #333;
+    border: 3px solid #443;
 }
 
 #gallery img:hover {
