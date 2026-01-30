@@ -25,7 +25,7 @@ HTML5
 CSS3
 
  How to View the Project
-🔗 View Online
+🔗 View Online...
 
 You can view the live website here:
 (https://mathewkioko85-gif.github.io/Mathew-s-project/)
