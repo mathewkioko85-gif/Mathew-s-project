@@ -1,4 +1,6 @@
 # photography-portfolio
+Author.
+Mathew kioko
  Photography Portfolio Website
 
 This project is a personal photography portfolio website created as part of my web development assignment. The website showcases a selection of my favorite photographs and includes a short biography section to introduce me as a photographer.
